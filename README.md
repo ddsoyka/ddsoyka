@@ -1,47 +1,46 @@
-## Hi, my name is Daniel Douglas Soyka
+### Hi, my name is Daniel Douglas Soyka
 
-## I'm a hobbyist programmer and computer scientist.
+### I'm a programmer and an aspiring computer scientist.
 
-My pronouns are **He**/**Him**.
+### My pronouns are **He**/**Him**.
+
+<a href="https://www.facebook.com/ddsoyka"><img src="assets/facebook.svg" alt="Twitter" width="32"></img></a>
+<a href="https://www.twitter.com/ddsoyka"><img src="assets/twitter.svg" alt="Twitter" width="32"></img></a>
 
 # Biography
 
-I started programming at the age of 14, when I was introduced to computer science during a high school class.
+I was three years old when I received my first personal computer, and I have been experimenting with computing ever since. When I was 14 years old, I was introduced to computer science and programming, and I have since experimented with many different languages and technologies. I have a particular interest in research related to information science, algorithmic complexity and machine learning.
 
-## Experience
+# Experience
 
-### Languages
+I am familiar with the following languages:
 
 - C/C++
-- Javascript
-- Typescript
 - Java
 - Kotlin
 - Groovy
-- Turing
-- HTML
-- CSS
+- Javascript
+- Typescript
+- HTML/CSS
+- Bash
+- Powershell
 
-### Frameworks/Libraries
+In addition, I have experience with the following tools:
 
-- React
-- Redux
-- JSoup
-- JavaFX
-- JUnit
-- SLF4J
-
-### Build Tools
-
-- NPM
-- Gradle/Maven
-- CMake
-
-### Platforms
-
-- Windows
-- Linux
+- JVM/JDK
 - Android
+- React
+- NPM
+- Gradle
+- Git
+- Docker
+- HyperV
+
+Finally, I am comfortable using the following IDEs/GUIs:
+
+- Visual Studio
+- Visual Studio Code
+- GitKraken
 
 # PGP
 
