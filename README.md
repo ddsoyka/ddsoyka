@@ -1,11 +1,11 @@
+<a href="https://www.facebook.com/ddsoyka"><img src="assets/facebook.svg" alt="Twitter" width="32"></img></a>
+<a href="https://www.twitter.com/ddsoyka"><img src="assets/twitter.svg" alt="Twitter" width="32"></img></a>
+
 ### Hi, my name is Daniel Douglas Soyka
 
 ### I'm a programmer and an aspiring computer scientist.
 
 ### My pronouns are **He**/**Him**.
-
-<a href="https://www.facebook.com/ddsoyka"><img src="assets/facebook.svg" alt="Twitter" width="32"></img></a>
-<a href="https://www.twitter.com/ddsoyka"><img src="assets/twitter.svg" alt="Twitter" width="32"></img></a>
 
 # Biography
 
